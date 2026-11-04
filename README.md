@@ -45,19 +45,19 @@ Son record étant d'environ **20 à 35 secondes**, j'ai fixé un délai de **0,2
 
 Le site a été testé avec **Google Lighthouse** afin d'évaluer ses performances, son accessibilité, ses bonnes pratiques et son référencement, sur mobile et ordinateur.
 
-[Voir les résultats du test Lighthouse](https://pagespeed.web.dev/analysis/https-seyyko-github-io-rubicksCube/xx88dhxi6j?form_factor=mobile)
+[Voir les résultats du test Lighthouse](https://pagespeed.web.dev/analysis/https-hchamrouk-github-io-rubicksCube/kwxabzvep6?hl=fr&form_factor=mobile)
 
 | Indicateur | 📱 Mobile | 🖥️ Ordinateur |
 |:---|:---:|:---:|
-| **Performances** | **99/100** | **100/100** |
+| **Performances** | **100/100** | **100/100** |
 | **Accessibilité** | **100/100** | **100/100** |
 | **Bonnes pratiques** | **100/100** | **100/100** |
 | **SEO** | **100/100** | **100/100** |
-| First Contentful Paint | 1,0 s | 0,3 s |
+| First Contentful Paint | 0,8 s | 0,2 s |
 | Largest Contentful Paint | 1,1 s | 0,3 s |
 | Total Blocking Time | 0 ms | 0 ms |
 | Cumulative Layout Shift | 0 | 0 |
-| Speed Index | 3,6 s | 0,3 s |
+| Speed Index | 0,8 s | 0,3 s |
 
 ### Configuration des tests
 
