@@ -71,6 +71,6 @@ Le site a été testé avec **Google Lighthouse** afin d'évaluer ses performanc
 
 > Les valeurs peuvent varier légèrement d'un test à l'autre. Le score de performance est calculé à partir des différentes métriques mesurées par Lighthouse.
 
-## **[Découvrir le projet](https://seyyko.github.io/rubicksCube/)**
+## **[Découvrir le projet](https://hchamrouk.github.io/rubicksCube/)**
 
 ![Aperçu du Rubik's Cube](./img/rubicksCube.png)
