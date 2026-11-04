@@ -62,7 +62,7 @@
                         </div>
 
                         <div class="debug">
-                            <input type="checkbox" name="debug">
+                            <input type="checkbox" name="debug" id="debug">
                             <label for="debug">debug mode</label>
                         </div>
                     </section>
@@ -115,7 +115,7 @@
             <div id="timer">00:00:00</div>
             <div id="scanBox">
                 <div class="cubeContainer"></div>
-                <section id="camera">
+                <div id="camera">
                     <button class="front">FRONT</button>
                     <button class="upper">UPPER</button>
                     <button class="right">RIGHT</button>
@@ -129,8 +129,8 @@
                         capture="environment"
                         hidden
                     >
-                </section>
-                <section id="crop">
+                </div>
+                <div id="crop">
                     <div>
                         <div></div>
                         <div></div>
@@ -141,10 +141,10 @@
                         <div></div>
                         <div></div>
                         <div></div>
-                        <img src="" alt="face's scan image">
+                        <img src="#" alt="face's scan image">
                     </div>
                     <button>Confirm</button>
-                </section>
+                </div>
                 <p>
                     <span>
                         <span>> Left click</span>
