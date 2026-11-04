@@ -63,9 +63,9 @@ Le site a été testé avec **Google Lighthouse** afin d'évaluer ses performanc
 
 - **Mobile :** émulation d'un **Moto G Power** avec une connexion **4G lente**
 - **Ordinateur :** émulation ordinateur avec une limitation réseau personnalisée
-- **Lighthouse :** 13.4.1
-- **Date :** 25 août 2026 à 20:28 (UTC+2)
-- **Navigateur :** HeadlessChromium 151.0.7922.71
+- **Lighthouse :** 13.6
+- **Date :** 4 novembre 2026, à 11:03 (UTC+1)
+- **Navigateur :** HeadlessChromium 153.0.8010.36 with lr
 - **Session :** consultation d'une seule page
 - **Chargement :** page initiale
 
